@@ -8,7 +8,7 @@ Qualquer um pode conquistar uma posição de poder e respeito dentro de Noxus se
 Entretanto, apesar dos ideais meritocráticos, as antigas famílias nobres ainda detêm grande poder... e há quem diga que a maior ameaça a Noxus não vem de fora, mas de dentro.`
 
 
-const imagemTargon = `https://static.wikia.nocookie.net/coroa-das-entidades/images/7/78/Image.jpg/revision/latest/scale-to-width-down/694?cb=20190702202339&path-prefix=pt-br`
+const imagemTargon = `https://nexus.leagueoflegends.com/wp-content/uploads/2017/11/LOL_CMS_150_Social_1200_ssy33jimflfs1bx5k8ru.jpg`
 const descriçãoTargon = `Monte Targon é a mais imponente montanha de Runeterra; uma torre gigantesca de rochas endurecidas pelo sol em meio a uma variedade de cumes. Nada igual em escala em qualquer lugar do mundo. Localizado longe da civilização, o Monte Targon é deveras remoto e impossível de alcançar, exceto pelos exploradores mais determinados. Muitas lendas estão ligadas ao Monte Targon e, assim como qualquer lugar que pertence a um mito, é um farol para sonhadores, loucos e exploradores em busca de aventura. Algumas almas corajosas tentam escalar a montanha impossível, talvez em busca de conhecimento ou iluminação, ou talvez atrás de glória ou para atender outro desejo da alma ao ver seu auge. A subida é quase impossível, e até mesmo para aqueles poucos que, de alguma forma, sobrevivem a chegada ao topo jamais falam sobre o que viram lá. Alguns voltam com uma assombração de olhares vazios em seus olhos, outros mudam completamente, imbuídos de um Aspecto de poder sobrenatural e que vai além da humanidade, com um destino que poucos mortais podem compreender.`
 
 
